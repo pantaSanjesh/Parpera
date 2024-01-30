@@ -26,10 +26,11 @@ There are  2 Controller with following Apis:
   4.UpdateTransactionStatus_ThrowsException_ReturnsStatusCode500
 
 ## Getting Started
-Run the project on visual studio. Th swagger is enabled for now.
+Run the project on visual studio. The swagger is enabled for now.
 
 ### Prerequisites
 Packages required with project details:
+
 1.TransactionUpdate
 - Microsoft.AspNetCore.Authentication.JwtBearer
 - Swashbuckle.AspNetCore
