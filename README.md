@@ -13,17 +13,17 @@ There are  2 Controller with following Apis:
         a. Get the list of Transaction - this will so the list of transaction available
         b. Update the Transaction Status - After getting token we will be authorized to update the status
 2. TransactionUpdate.DalLayer
-- It contains the Model , Interface , DbContext and Repositories which is interact with database.
-- We have use sqllite for database as in memory database is stored in .db file 
-- We have use Repository pattern which interact with Database and controller.
+    - It contains the Model , Interface , DbContext and Repositories which is interact with database.
+    - We have use sqllite for database as in memory database is stored in .db file 
+    - We have use Repository pattern which interact with Database and controller.
 
 3. TransactionUpdate.Tests
-- We have created Xunit test project and Moq has been add for mocking data statically for test.
-- There are 4 test cases as follows: 
-  1.GetAll_ReturnsListOfTransactions
-  2.UpdateTransactionStatus_WithValidId_ReturnsOkResult
-  3.UpdateTransactionStatus_WithInvalidId_ReturnsNotFoundResult
-  4.UpdateTransactionStatus_ThrowsException_ReturnsStatusCode500
+      - We have created Xunit test project and Moq has been add for mocking data statically for test.
+      - There are 4 test cases as follows: 
+          1.GetAll_ReturnsListOfTransactions
+          2.UpdateTransactionStatus_WithValidId_ReturnsOkResult
+          3.UpdateTransactionStatus_WithInvalidId_ReturnsNotFoundResult
+          4.UpdateTransactionStatus_ThrowsException_ReturnsStatusCode500
 
 ## Getting Started
 Run the project on visual studio. The swagger is enabled for now.
