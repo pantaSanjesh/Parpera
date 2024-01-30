@@ -10,7 +10,9 @@ There are  2 Controller with following Apis:
         a.  GetToken- This will provide us token to for authorization(Have client key predefined as per given requirenment)
     
      2. Transaction Controller
+        
         a. Get the list of Transaction - this will so the list of transaction available
+        
         b. Update the Transaction Status - After getting token we will be authorized to update the status
 2. TransactionUpdate.DalLayer
     - It contains the Model , Interface , DbContext and Repositories which is interact with database.
