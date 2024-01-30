@@ -7,9 +7,10 @@ we have created 3 Projects:
 There are  2 Controller with following Apis:
 
      1. AuthController
+        
         a.  GetToken- This will provide us token to for authorization(Have client key predefined as per given requirenment)
     
-     2. Transaction Controller
+     3. Transaction Controller
         
         a. Get the list of Transaction - this will so the list of transaction available
         
