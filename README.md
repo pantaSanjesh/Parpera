@@ -6,12 +6,12 @@ we have created 3 Projects:
 1. TransactionUpdate: 
 There are  2 Controller with following Apis:
 
-  1. AuthController
-    a.  GetToken- This will provide us token to for authorization(Have client key predefined as per given requirenment)
+     1. AuthController
+        a.  GetToken- This will provide us token to for authorization(Have client key predefined as per given requirenment)
     
-  2. Transaction Controller
-    a. Get the list of Transaction - this will so the list of transaction available
-    b. Update the Transaction Status - After getting token we will be authorized to update the status
+     2. Transaction Controller
+        a. Get the list of Transaction - this will so the list of transaction available
+        b. Update the Transaction Status - After getting token we will be authorized to update the status
 2. TransactionUpdate.DalLayer
 - It contains the Model , Interface , DbContext and Repositories which is interact with database.
 - We have use sqllite for database as in memory database is stored in .db file 
