@@ -1,0 +1,14 @@
+C:\Project\TransactionUpdate\TransactionUpdate.DalLayer\bin\Debug\net8.0\TransactionUpdate.DalLayer.deps.json
+C:\Project\TransactionUpdate\TransactionUpdate.DalLayer\bin\Debug\net8.0\TransactionUpdate.DalLayer.dll
+C:\Project\TransactionUpdate\TransactionUpdate.DalLayer\bin\Debug\net8.0\TransactionUpdate.DalLayer.pdb
+C:\Project\TransactionUpdate\TransactionUpdate.DalLayer\obj\Debug\net8.0\TransactionUpdate.DalLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\TransactionUpdate\TransactionUpdate.DalLayer\obj\Debug\net8.0\TransactionUpdate.DalLayer.AssemblyInfoInputs.cache
+C:\Project\TransactionUpdate\TransactionUpdate.DalLayer\obj\Debug\net8.0\TransactionUpdate.DalLayer.AssemblyInfo.cs
+C:\Project\TransactionUpdate\TransactionUpdate.DalLayer\obj\Debug\net8.0\TransactionUpdate.DalLayer.csproj.CoreCompileInputs.cache
+C:\Project\TransactionUpdate\TransactionUpdate.DalLayer\obj\Debug\net8.0\TransactionUpdate.DalLayer.dll
+C:\Project\TransactionUpdate\TransactionUpdate.DalLayer\obj\Debug\net8.0\refint\TransactionUpdate.DalLayer.dll
+C:\Project\TransactionUpdate\TransactionUpdate.DalLayer\obj\Debug\net8.0\TransactionUpdate.DalLayer.pdb
+C:\Project\TransactionUpdate\TransactionUpdate.DalLayer\obj\Debug\net8.0\ref\TransactionUpdate.DalLayer.dll
+C:\Project\TransactionUpdate\TransactionUpdate.DalLayer\bin\Debug\net8.0\TransactionUpdate.DalLayer.runtimeconfig.json
+C:\Project\TransactionUpdate\TransactionUpdate.DalLayer\obj\Debug\net8.0\TransactionUpdate.DalLayer.csproj.AssemblyReference.cache
+C:\Project\TransactionUpdate\TransactionUpdate.DalLayer\obj\Debug\net8.0\TransactionUpdate.DalLayer.genruntimeconfig.cache
