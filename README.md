@@ -20,8 +20,8 @@ There are  2 Controller with following Apis:
 3. TransactionUpdate.Tests
 - We have created Xunit test project and Moq has been add for mocking data statically for test.
 - There are 4 test cases as follows: 
-  1. GetAll_ReturnsListOfTransactions
-  2. UpdateTransactionStatus_WithValidId_ReturnsOkResult
+  1.GetAll_ReturnsListOfTransactions
+  2.UpdateTransactionStatus_WithValidId_ReturnsOkResult
   3.UpdateTransactionStatus_WithInvalidId_ReturnsNotFoundResult
   4.UpdateTransactionStatus_ThrowsException_ReturnsStatusCode500
 
