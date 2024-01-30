@@ -60,6 +60,6 @@ Packages required with project details:
 ##### Bonus
 
 - JWT token authorization is enable which required you to add token while you try to update transaction.
-- To get JWT token, run the Auth Controller api from the swagger. Copy the api code and paste it in the AUthorization code box of the update api that is Transaction/{id}/update-status.
+- To get JWT token, run the Auth Controller api from the swagger. Copy the api code and paste it in the Authorization code box of the update api that is Transaction/{id}/update-status.
 - While model is created the contents has been added to tables for transaction data. You can find it in the TransactionDbContext file. 
 - Connection string is added but that requires [configuration to be done on running machine]. However, db class is generated inside the project as transaction.db.
