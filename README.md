@@ -58,12 +58,10 @@ Packages required with project details:
      
    - To access check the data i have added separate folder for database named Db:
 
-    
-        1.Firstly go into command prompt and in cmd checked in the Db path
       
-        2. Then write command sqlite3 Transaction.db(databasename with .db extension )
+        1. Firstly go into command prompt and in cmd checked in the Db path,then write command sqlite3 Transaction.db(databasename with .db extension )
           
-        3. Finally write select query ,then you will get the result(eg.  select * from Transactions;)as Transactions is my table name.
+        2. Finally write select query ,then you will get the result(eg.  select * from Transactions;)as Transactions is my table name.
 ### More Features
 - Use TransactionDbContext to add contents to import to table.
 - Enable Authorize to make the api secured in the Controller.
