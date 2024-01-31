@@ -23,7 +23,7 @@ There are  2 Controller with following Apis:
 3. TransactionUpdate.Tests
       - We have created Xunit test project and Moq has been add for mocking data statically for test.
       - There are 4 test cases as follows:
-      - 
+        
           1.GetAll_ReturnsListOfTransactions
         
           2.UpdateTransactionStatus_WithValidId_ReturnsOkResult
@@ -54,11 +54,14 @@ Packages required with project details:
 - xunit.runner.visualstudio
 
 ### For Database
-  - We have use sqlite for data storage
-  - To access check the data i have added separate folder for database named Db
-     1.Firstly go into command prompt and in cmd checked in the Db path
-     2. Then write command sqlite3 Transaction.db(databasename with .db extension )
-     3. Finally write select query ,then yoy will get the result(eg.  select * from Transactions;)as Transactions is my table name.
+   - We have use sqlite for data storage
+     
+   - To access check the data i have added separate folder for database named Db:
+
+      
+        1. Firstly go into command prompt and in cmd checked in the Db path,then write command sqlite3 Transaction.db(databasename with .db extension )
+          
+        2. Finally write select query ,then you will get the result(eg.  select * from Transactions;)as Transactions is my table name.
 ### More Features
 - Use TransactionDbContext to add contents to import to table.
 - Enable Authorize to make the api secured in the Controller.
