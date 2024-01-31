@@ -56,6 +56,7 @@ Packages required with project details:
 ### For Database
   - We have use sqlite for data storage
   - To access check the data i have added separate folder for database named Db:
+
     
       1.Firstly go into command prompt and in cmd checked in the Db path
     
