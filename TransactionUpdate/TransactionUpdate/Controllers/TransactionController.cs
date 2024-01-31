@@ -49,7 +49,7 @@ namespace TransactionUpdate.Controllers
                 {
                     
                    _transactionRepository.UpdateStatus(id, newStatus);
-                    return Ok(new {message = "Transaction status updated successfully" });
+                    return Ok( "Transaction status updated successfully" );
                 }
                 else
                 {
