@@ -150,3 +150,4 @@ C:\Project\TransactionUpdate\TransactionUpdate.Tests\obj\Debug\net8.0\refint\Tra
 C:\Project\TransactionUpdate\TransactionUpdate.Tests\obj\Debug\net8.0\TransactionUpdate.Tests.pdb
 C:\Project\TransactionUpdate\TransactionUpdate.Tests\obj\Debug\net8.0\TransactionUpdate.Tests.genruntimeconfig.cache
 C:\Project\TransactionUpdate\TransactionUpdate.Tests\obj\Debug\net8.0\ref\TransactionUpdate.Tests.dll
+C:\Project\TransactionUpdate\TransactionUpdate.Tests\obj\Debug\net8.0\TransactionUpdate.Tests.sourcelink.json

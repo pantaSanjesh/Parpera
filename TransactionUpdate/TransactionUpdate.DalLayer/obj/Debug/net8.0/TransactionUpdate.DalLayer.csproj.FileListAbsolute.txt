@@ -12,3 +12,4 @@ C:\Project\TransactionUpdate\TransactionUpdate.DalLayer\obj\Debug\net8.0\ref\Tra
 C:\Project\TransactionUpdate\TransactionUpdate.DalLayer\bin\Debug\net8.0\TransactionUpdate.DalLayer.runtimeconfig.json
 C:\Project\TransactionUpdate\TransactionUpdate.DalLayer\obj\Debug\net8.0\TransactionUpdate.DalLayer.csproj.AssemblyReference.cache
 C:\Project\TransactionUpdate\TransactionUpdate.DalLayer\obj\Debug\net8.0\TransactionUpdate.DalLayer.genruntimeconfig.cache
+C:\Project\TransactionUpdate\TransactionUpdate.DalLayer\obj\Debug\net8.0\TransactionUpdate.DalLayer.sourcelink.json
